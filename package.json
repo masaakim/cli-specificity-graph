@@ -18,7 +18,8 @@
   "license": "MIT",
   "dependencies": {
     "css-specificity": "^0.1.0",
-    "postcss": "^4.0.0"
+    "postcss": "^4.0.0",
+    "minimist": "^1.1.0"
   },
   "devDependencies": {}
 }
