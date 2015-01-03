@@ -1,0 +1,19 @@
+{
+  "name": "cli-specificity-graph",
+  "version": "0.0.1",
+  "description": "command line interface for specificity graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morishitter/cli-specificity-graph/git"
+  },
+  "keywords": ["css","specificity"],
+  "author": "Masaaki Morishita",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
