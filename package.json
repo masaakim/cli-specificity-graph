@@ -10,10 +10,15 @@
     "type": "git",
     "url": "git://github.com/morishitter/cli-specificity-graph/git"
   },
-  "keywords": ["css","specificity"],
+  "keywords": [
+    "css",
+    "specificity"
+  ],
   "author": "Masaaki Morishita",
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {
-  }
+  "dependencies": {
+    "css-specificity": "^0.1.0",
+    "postcss": "^4.0.0"
+  },
+  "devDependencies": {}
 }
