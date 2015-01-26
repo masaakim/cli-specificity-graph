@@ -18,11 +18,10 @@ var pkg = require('./package.json')
 if (argv.V) console.log(pkg.version)
 
 if (argv.h) {
-    console.log('Usage: acss input-name output-name [options]');
+    console.log('Usage: specificity-graph input.css');
     console.log('');
     console.log('Options:');
     console.log('');
-    console.log('  -c, --compress    use output compression');
     console.log('  -V, --versions    output the version number');
     console.log('  -h, --help        output usage information');
 }
